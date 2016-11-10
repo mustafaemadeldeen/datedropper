@@ -9,6 +9,7 @@ datedropper is a jQuery plugin that provides a quick and easy way to manage date
 LANGUAGE  | OPTION
 --------- | ---------
 Arabic    | { lang: 'ar' }
+Chinese   | { lang: 'zh' }
 Dansk	    | { lang: 'da' }
 Deutsch   | { lang: 'de' }
 Dutch     | { lang: 'nl' }
